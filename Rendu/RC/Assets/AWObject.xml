@@ -1,0 +1,8 @@
+<databaseObject>
+  <Object>
+    <PrefabPath>C:/Users/silverstone/Dropbox/Projet Annuel/A Way Out/Assets/Ressources/Trap.prefab</PrefabPath>
+    <TimeSpawn>20</TimeSpawn>
+    <BuffTime>5</BuffTime>
+    <BuffValue>-20</BuffValue>
+  </Object>
+</databaseObject>

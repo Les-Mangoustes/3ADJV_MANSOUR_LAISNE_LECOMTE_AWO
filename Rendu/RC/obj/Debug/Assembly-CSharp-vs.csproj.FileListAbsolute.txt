@@ -1,0 +1,22 @@
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\UnityEditor.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\UnityEngine.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\nunit.framework.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp.dll
+C:\Users\silverstone\Dropbox\cours\Programmation Jeux Video (Unity)\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp.pdb
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\UnityEditor.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\UnityEngine.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\nunit.framework.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp.dll
+C:\Users\silverstone\Dropbox\Projet Annuel\A Way Out\obj\Debug\Assembly-CSharp.pdb
