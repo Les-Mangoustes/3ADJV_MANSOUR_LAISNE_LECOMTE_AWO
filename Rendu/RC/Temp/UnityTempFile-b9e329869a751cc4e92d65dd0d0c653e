@@ -1,0 +1,90 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WindowsStandalonePlayer/Managed/UnityEngine.dll"
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_2
+-define:UNITY_4_3
+Assets/Scripts/AStarScript.cs
+Assets/Scripts/AddObjectGenerationPanel.cs
+Assets/Scripts/AddObjectPanel.cs
+Assets/Scripts/CameraMovementScriptMouse.cs
+Assets/Scripts/ChatScript.cs
+Assets/Scripts/GetKeyScript.cs
+Assets/Scripts/IAMinionsScript.cs
+Assets/Scripts/IAScript.cs
+Assets/Scripts/InteractScript.cs
+Assets/Scripts/Inventory.cs
+Assets/Scripts/ItemScript.cs
+Assets/Scripts/MenuScript/LobbyScript.cs
+Assets/Scripts/MenuScript/MenuScript.cs
+Assets/Scripts/MenuScript/createObjectScript.cs
+Assets/Scripts/MoveToUp.cs
+Assets/Scripts/NetworkScript.cs
+Assets/Scripts/PlayerAttackScript.cs
+Assets/Scripts/PlayerCaracScript.cs
+Assets/Scripts/PowerProperties.cs
+Assets/Scripts/ProceduralScript.cs
+Assets/Scripts/SpawnKeyScript.cs
+Assets/Scripts/SpwanMinionsScript.cs
+Assets/Scripts/StaticVariableScript.cs
+"Assets/Scripts/TutorialScripts No Network/AStarScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/AddObjectPanelTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/CameraMovementScriptMouseTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/IAMinionsScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/IAScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/InteractScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/ItemScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/MoveToUpTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/MovementTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/NetworkScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/PlayerAttackScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/PlayerCaracScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/PowerPropertiesTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/ProceduralScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/SpwanMinionsScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/StaticVariableScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/UsePowerScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/WhenPursuerCatchesAPlayerTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/checkPositionTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/objectForGenerationScriptTutorial.cs"
+"Assets/Scripts/TutorialScripts No Network/openDoorScriptTutorial.cs"
+Assets/Scripts/UsePowerScript.cs
+Assets/Scripts/WhenPursuerCatchesAPlayer.cs
+Assets/Scripts/checkPosition.cs
+Assets/Scripts/endEscapeScript.cs
+Assets/Scripts/minionsClass.cs
+Assets/Scripts/notEnoughKeyScript.cs
+Assets/Scripts/objectClass.cs
+Assets/Scripts/objectForGenerationScript.cs
+Assets/Scripts/openDoorScript.cs
+Assets/Scripts/playerCatchEscapeModeScript.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
